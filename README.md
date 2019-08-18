@@ -1,9 +1,9 @@
-# go-isatty
+# isatty
 
-[![Godoc Reference](https://godoc.org/github.com/mattn/go-isatty?status.svg)](http://godoc.org/github.com/mattn/go-isatty)
-[![Build Status](https://travis-ci.org/mattn/go-isatty.svg?branch=master)](https://travis-ci.org/mattn/go-isatty)
-[![Coverage Status](https://coveralls.io/repos/github/mattn/go-isatty/badge.svg?branch=master)](https://coveralls.io/github/mattn/go-isatty?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/mattn/go-isatty)](https://goreportcard.com/report/mattn/go-isatty)
+[![Godoc Reference](https://godoc.org/github.com/mysqto/isatty?status.svg)](http://godoc.org/github.com/mysqto/isatty)
+[![Build Status](https://travis-ci.org/mysqto/isatty.svg?branch=master)](https://travis-ci.org/mysqto/isatty)
+[![Coverage Status](https://coveralls.io/repos/github/mysqto/isatty/badge.svg?branch=master)](https://coveralls.io/github/mysqto/isatty?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/mysqto/isatty)](https://goreportcard.com/report/mysqto/isatty)
 
 isatty for golang
 
@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mattn/go-isatty"
+	"github.com/mysqto/isatty"
 	"os"
 )
 
@@ -31,8 +31,8 @@ func main() {
 
 ## Installation
 
-```
-$ go get github.com/mattn/go-isatty
+```bash
+$go get github.com/mysqto/isatty
 ```
 
 ## License
@@ -41,6 +41,7 @@ MIT
 
 ## Author
 
+Chen Lei (a.k.a mysqto)
 Yasuhiro Matsumoto (a.k.a mattn)
 
 ## Thanks
