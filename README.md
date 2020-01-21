@@ -1,7 +1,7 @@
 # isatty
 
 [![Godoc Reference](https://godoc.org/github.com/mysqto/isatty?status.svg)](http://godoc.org/github.com/mysqto/isatty)
-[![Build Status](https://travis-ci.org/mysqto/isatty.svg?branch=master)](https://travis-ci.org/mysqto/isatty)
+[![Codecov](https://codecov.io/gh/mysqto/isatty/branch/master/graph/badge.svg)](https://codecov.io/gh/mysqto/isatty)
 [![Coverage Status](https://coveralls.io/repos/github/mysqto/isatty/badge.svg?branch=master)](https://coveralls.io/github/mysqto/isatty?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/mysqto/isatty)](https://goreportcard.com/report/mysqto/isatty)
 
